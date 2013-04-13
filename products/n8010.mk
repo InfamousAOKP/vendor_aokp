@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := n8010
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/aokp/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/n8010/full_n8010.mk)

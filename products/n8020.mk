@@ -1,5 +1,5 @@
 # Specify phone tech before including full_phone
-$(call inherit-product, vendor/aokp/config/gsm.mk)
+$(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # Release name
 PRODUCT_RELEASE_NAME := n8020
@@ -8,7 +8,7 @@ PRODUCT_RELEASE_NAME := n8020
 TARGET_BOOTANIMATION_NAME := horizontal-1200
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/aokp/config/common_full_phone.mk)
+$(call inherit-product, vendor/aokp/configs/common.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/n8020/full_n8020.mk)
