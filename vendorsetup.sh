@@ -18,8 +18,11 @@ add_lunch_combo aokp_i9100g-userdebug
 add_lunch_combo aokp_i9300-userdebug
 add_lunch_combo aokp_l900-userdebug
 add_lunch_combo aokp_maserati-userdebug
+add_lunch_combo aokp_p4-userdebug
+add_lunch_combo aokp_p4vzw-userdebug
 add_lunch_combo aokp_p4wifi-userdebug
 add_lunch_combo aokp_p930-userdebug
+add_lunch_combo aokp_p970-userdebug
 add_lunch_combo aokp_solana-userdebug
 add_lunch_combo aokp_spyder-userdebug
 add_lunch_combo aokp_su640-userdebug

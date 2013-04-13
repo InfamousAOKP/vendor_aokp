@@ -21,6 +21,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/p4vzw.mk \
     $(LOCAL_DIR)/p4wifi.mk \
     $(LOCAL_DIR)/p930.mk \
+    $(LOCAL_DIR)/p970.mk \
     $(LOCAL_DIR)/solana.mk \
     $(LOCAL_DIR)/spyder.mk \
     $(LOCAL_DIR)/su640.mk \
