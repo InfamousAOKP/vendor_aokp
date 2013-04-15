@@ -12,7 +12,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := galaxysmtd
-PRODUCT_NAME := cm_galaxysmtd
+PRODUCT_NAME := aokp_galaxysmtd
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := GT-I9000
 PRODUCT_RELEASE_NAME := GalaxyS
