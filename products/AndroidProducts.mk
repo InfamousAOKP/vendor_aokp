@@ -7,6 +7,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/evita.mk \
     $(LOCAL_DIR)/grouper.mk \
     $(LOCAL_DIR)/galaxysmtd.mk \
+    $(LOCAL_DIR)/hayabusa.mk \
     $(LOCAL_DIR)/hercules.mk \
     $(LOCAL_DIR)/i605.mk \
     $(LOCAL_DIR)/i9100.mk \
@@ -17,6 +18,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/mako.mk \
     $(LOCAL_DIR)/manta.mk \
     $(LOCAL_DIR)/maserati.mk \
+    $(LOCAL_DIR)/mint.mk \
     $(LOCAL_DIR)/p4.mk \
     $(LOCAL_DIR)/p4tmo.mk \
     $(LOCAL_DIR)/p4vzw.mk \
@@ -31,5 +33,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/tilapia.mk \
     $(LOCAL_DIR)/toro.mk \
     $(LOCAL_DIR)/toroplus.mk \
+    $(LOCAL_DIR)/tsubasa.mk \
     $(LOCAL_DIR)/umtsspyder.mk \
     $(LOCAL_DIR)/vs920.mk
