@@ -17,7 +17,7 @@ else
             ro.aokp.version=$(TARGET_PRODUCT)_nightly_$(DATE)
     else
     PRODUCT_PROPERTY_OVERRIDES += \
-        ro.aokp.version=Mackay_ROM_1.0
+        ro.aokp.version=Infamous_ROM_1.0
     endif
 endif
 
