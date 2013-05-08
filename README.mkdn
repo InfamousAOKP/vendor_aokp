@@ -1,4 +1,4 @@
-[Android Open Kang Project](aokp.co)
+[Android Open Kang Project](http://aokp.co)
 ====================================
 
 
@@ -25,8 +25,6 @@ Integrated kernel building is now **required** to compile AOKP for _all_ support
 From the root of your source tree, run the following script to grab the kernel sources required
 
     . ./platform_manifest/manual_add_kernel_manifest.sh
-
-Then run another `repo sync`
 
 
 **Advanced users:**
