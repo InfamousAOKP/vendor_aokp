@@ -36,3 +36,6 @@ add_lunch_combo aokp_tsubasa-userdebug
 add_lunch_combo aokp_umtsspyder-userdebug
 add_lunch_combo aokp_vibrantmtd-userdebug
 add_lunch_combo aokp_vs920-userdebug
+add_lunch_combo aokp_jfltetmo-userdebug
+add_lunch_combo aokp_n8013-userdebug
+add_lunch_combo aokp_n8000-userdebug
