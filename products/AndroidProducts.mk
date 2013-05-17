@@ -19,6 +19,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/manta.mk \
     $(LOCAL_DIR)/maserati.mk \
     $(LOCAL_DIR)/mint.mk \
+    $(LOCAL_DIR)/odin.mk \
     $(LOCAL_DIR)/p4.mk \
     $(LOCAL_DIR)/p4tmo.mk \
     $(LOCAL_DIR)/p4vzw.mk \
@@ -35,4 +36,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/toroplus.mk \
     $(LOCAL_DIR)/tsubasa.mk \
     $(LOCAL_DIR)/umtsspyder.mk \
-    $(LOCAL_DIR)/vs920.mk
+    $(LOCAL_DIR)/vs920.mk \
+    $(LOCAL_DIR)/yuga.mk
