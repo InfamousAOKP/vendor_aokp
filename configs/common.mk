@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
     AppWidgetPicker \
     CMFileManager \
     LatinImeDictionaryPack \
+    LockClock \
     mGerrit \
     Microbes \
     PermissionsManager \
