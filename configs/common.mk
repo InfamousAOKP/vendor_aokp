@@ -10,6 +10,7 @@ PRODUCT_PACKAGES += \
     AOKPtips \
     AppWidgetPicker \
     CMFileManager \
+    DSPManager \
     LatinImeDictionaryPack \
     LockClock \
     mGerrit \
