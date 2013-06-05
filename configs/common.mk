@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
     su \
     SwagPapers \
     Torch \
+    Trebuchet \
     UnicornPorn
 
 PRODUCT_PROPERTY_OVERRIDES += \
