@@ -13,6 +13,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/i9100.mk \
     $(LOCAL_DIR)/i9100g.mk \
     $(LOCAL_DIR)/i9300.mk \
+    $(LOCAL_DIR)/jfltespr.mk \
     $(LOCAL_DIR)/jfltetmo.mk \
     $(LOCAL_DIR)/jflteusc.mk \
     $(LOCAL_DIR)/jfltevzw.mk \
@@ -33,6 +34,8 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/p4wifi.mk \
     $(LOCAL_DIR)/p930.mk \
     $(LOCAL_DIR)/p970.mk \
+    $(LOCAL_DIR)/pollux.mk \
+    $(LOCAL_DIR)/pollux_windy.mk \
     $(LOCAL_DIR)/solana.mk \
     $(LOCAL_DIR)/spyder.mk \
     $(LOCAL_DIR)/su640.mk \
