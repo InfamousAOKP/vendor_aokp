@@ -18,7 +18,7 @@ else
             ro.aokp.version=$(TARGET_PRODUCT)_nightly_$(DATE)
     else
     PRODUCT_PROPERTY_OVERRIDES += \
-        ro.aokp.version=$(TARGET_PRODUCT)_unofficial_$(DATE)
+        ro.aokp.version=InfamousAOKP_JB43_1.0
     endif
 endif
 
